@@ -1,6 +1,10 @@
 body{
-    background-color: rgb(255, 187, 0);
+    background-color: rgb(5, 82, 56);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2ch;
     font: bold;
     font-style: italic;
 }
+h1{
+        color:yellow;
+    }
